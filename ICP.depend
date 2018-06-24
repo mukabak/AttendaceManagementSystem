@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1500645881 source:c:\users\admin\desktop\icp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	"header.h"
+	"login.h"
+	"menu.h"
+	"manage_intake.h"
+	"manage_module.h"
+	"manage_student.h"
+	"manage_lecturer.h"
+	"modify_attendance.h"
+	"lecturer.h"
+	"student.h"
+
+1500645654 c:\users\admin\desktop\icp\header.h
+
+1500645766 c:\users\admin\desktop\icp\menu.h
+
+1500643918 c:\users\admin\desktop\icp\manage_intake.h
+
+1500643918 c:\users\admin\desktop\icp\manage_module.h
+
+1500638545 c:\users\admin\desktop\icp\manage_student.h
+
+1500565559 c:\users\admin\desktop\icp\manage_lecturer.h
+
+1500570216 c:\users\admin\desktop\icp\login.h
+
+1500645615 c:\users\admin\desktop\icp\lecturer.h
+
+1500770678 c:\users\admin\desktop\icp\student.h
+
+1500770735 c:\users\admin\desktop\icp\modify_attendance.h
+
+1500645881 source:c:\users\admin\desktop\assignments\icp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	"header.h"
+	"login.h"
+	"menu.h"
+	"manage_intake.h"
+	"manage_module.h"
+	"manage_student.h"
+	"manage_lecturer.h"
+	"modify_attendance.h"
+	"lecturer.h"
+	"student.h"
+
+1501566059 c:\users\admin\desktop\assignments\icp_1\header.h
+
+1500570216 c:\users\admin\desktop\assignments\icp_1\login.h
+
+1500645766 c:\users\admin\desktop\assignments\icp_1\menu.h
+
+1500643918 c:\users\admin\desktop\assignments\icp_1\manage_intake.h
+
+1500643918 c:\users\admin\desktop\assignments\icp_1\manage_module.h
+
+1500638545 c:\users\admin\desktop\assignments\icp_1\manage_student.h
+
+1500565559 c:\users\admin\desktop\assignments\icp_1\manage_lecturer.h
+
+1500770915 c:\users\admin\desktop\assignments\icp_1\modify_attendance.h
+
+1501567701 c:\users\admin\desktop\assignments\icp_1\lecturer.h
+
+1500863778 c:\users\admin\desktop\assignments\icp_1\student.h
+
